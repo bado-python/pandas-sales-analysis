@@ -21,6 +21,7 @@
 ## 実行方法
 ```bash
 python main.py
+```
 
 ## 工夫した点
 
